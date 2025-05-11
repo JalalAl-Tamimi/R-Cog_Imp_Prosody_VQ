@@ -9,7 +9,7 @@ The following notebooks showcase the various types of analyses:
 
    a. This [notebook](https://jalalal-tamimi.github.io/R-Cog_Imp_Prosody_VQ/ACE_Classification5Categories.nb.html) contains the full RF analyses for the 78 combinations of models: 6 Types of Predictors (three acoustic and in combination with the cognitive) * 13 Types of Comparison
 
-   b.  This [notebook](https://jalalal-tamimi.github.io/R-Cog_Imp_Prosody_VQ/ACE_Radar_charts_Pros_VQ_Neuro_sign_PIMP.nb.html) contains the radar charts for the most inlfuential predictors identified via Random Forests using the PIMP approach
+   b.  This [notebook](https://jalalal-tamimi.github.io/R-Cog_Imp_Prosody_VQ/ACE_Radar_charts_Pros_VQ_Neuro_sign_PIMP.nb.html) contains the radar charts for the most influential predictors identified via Random Forests using the PIMP approach
    
 3. Multinomial Logit Regression (MLR)
 
