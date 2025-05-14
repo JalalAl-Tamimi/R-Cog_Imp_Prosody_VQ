@@ -2,6 +2,8 @@
 
 This repo contains the full analyses for the paper **Al-Tamimi, J., Lofgren, M., Marquié, M., Rosende-Roca, M., Sanz, P., Tartari, J. P., Alegret, M., Sanabria, A., Ruiz, A., Boada, M., Valero, S., & Hinzen, W. (Under review). Automated prosodic and voice quality profiles across cognitive impairment. *Speech Communication*.**.
 
+See here for the full repos: [https://jalalal-tamimi.github.io/R-Cog_Imp_Prosody_VQ/](https://jalalal-tamimi.github.io/R-Cog_Imp_Prosody_VQ/)
+
 The following notebooks showcase the various types of analyses:
 1. This [notebook](https://jalalal-tamimi.github.io/R-Cog_Imp_Prosody_VQ/ACE_Summaries_correlations.nb.html) contains the summaries and correlation matrices
    
